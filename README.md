@@ -6,9 +6,7 @@
 
 A testing program for the midterm practice Bookstore class for COMP2404 - Professor Darryl Hill - W22
 
-## Getting Started
-
-### Installation and Launching
+## Installation and Launching
 
 ### Option #1:
 Download the repo as a Zip file by pressing the top right green 'Code' button.
